@@ -1,0 +1,502 @@
+Read seed value: 1234
+Read seed value (converted to integer): 1234
+
+BASEBALL: Team 0, player is ready to play 2, has played 0 times
+BASEBALL: Team 0, player is ready to play 11, has played 0 times
+BASEBALL: Team 0, player is ready to play 15, has played 0 times
+BASEBALL: Team 0, player is ready to play 16, has played 0 times
+BASEBALL: Team 1, player is ready to play 1, has played 0 times
+BASEBALL: Team 0, player is ready to play 12, has played 0 times
+BASEBALL: Team 0, player is ready to play 9, has played 0 times
+BASEBALL: Team 0, player is ready to play 13, has played 0 times
+BASEBALL: Team 1, player is ready to play 13, has played 0 times
+BASEBALL: Team 1, player is ready to play 14, has played 0 times
+BASEBALL: Team 1, player is ready to play 15, has played 0 times
+FOOTBALL: Team 0, player 0 is ready to play, has played 0 times
+BASEBALL: Team 1, player is ready to play 8, has played 0 times
+BASEBALL: Team 1, player is ready to play 5, has played 0 times
+BASEBALL: Team 1, player is ready to play 10, has played 0 times
+BASEBALL: Team 1, player is ready to play 9, has played 0 times
+BASEBALL: Team 1, player is ready to play 11, has played 0 times
+BASEBALL: Team 1, player is ready to play 12, has played 0 times
+BASEBALL: Team 1, player is ready to play 3, has played 0 times
+BASEBALL: Team 0, player is ready to play 10, has played 0 times
+FOOTBALL: Team 0, player 3 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 4 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 8 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 7 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 10 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 13 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 17 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 20 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 0 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 5 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 6 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 7 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 2 is ready to play, has played 0 times
+RUGBY: pair 7, player 1 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 18 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 1 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 21 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 16 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 12 is ready to play, has played 0 times
+RUGBY: pair 12, player 0 is ready to play, has played 0 times
+RUGBY: pair 17, player 0 is ready to play, has played 0 times
+RUGBY: pair 14, player 1 is ready to play, has played 0 times
+RUGBY: pair 15, player 0 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 20 is ready to play, has played 0 times
+RUGBY: pair 13, player 0 is ready to play, has played 0 times
+RUGBY: pair 23, player 0 is ready to play, has played 0 times
+RUGBY: pair 22, player 1 is ready to play, has played 0 times
+RUGBY: pair 21, player 0 is ready to play, has played 0 times
+RUGBY: pair 20, player 0 is ready to play, has played 0 times
+RUGBY: pair 19, player 0 is ready to play, has played 0 times
+RUGBY: pair 18, player 1 is ready to play, has played 0 times
+RUGBY: pair 22, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 0, player 1 is ready to play, has played 0 times
+RUGBY: pair 16, player 1 is ready to play, has played 0 times
+RUGBY: pair 1, player 0 is ready to play, has played 0 times
+RUGBY: pair 13, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 6, player 0 is ready to play, has played 0 times
+RUGBY: pair 11, player 0 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 18 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 15 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 6 is ready to play, has played 0 times
+RUGBY: pair 0, player 0, has played 0 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 12 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 4 is ready to play, has played 0 times
+RUGBY: pair 14, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 26, player 0 is ready to play, has played 0 times
+RUGBY: pair 27, player 0 is ready to play, has played 0 times
+RUGBY: pair 25, player 1 is ready to play, has played 0 times
+RUGBY: pair 29, player 1 is ready to play, has played 0 times
+RUGBY: pair 28, player 0 is ready to play, has played 0 times
+RUGBY: pair 24, player 1 is ready to play, has played 0 times
+BASEBALL: Team 0, player is ready to play 3, has played 0 times
+BASEBALL: Team 0, player is ready to play 6, has played 0 times
+BASEBALL: Team 0, player is ready to play 8, has played 0 times
+BASEBALL: Team 0, player is ready to play 0, has played 0 times
+BASEBALL: Team 0, player is ready to play 1, has played 0 times
+BASEBALL: Team 1, player is ready to play 4, has played 0 times
+BASEBALL: Team 1, player is ready to play 0, has played 0 times
+BASEBALL: Team 0, player is ready to play 17, has played 0 times
+BASEBALL: Team 0, player is ready to play 4, has played 0 times
+BASEBALL: Team 1, player is ready to play 2, has played 0 times
+BASEBALL: Team 0, player is ready to play 7, has played 0 times
+BASEBALL: Team 1, player is ready to play 6, has played 0 times
+FOOTBALL: Team 0, player 1 is ready to play, has played 0 times
+BASEBALL: Team 1, player is ready to play 16, has played 0 times
+BASEBALL: Team 1, player is ready to play 17, has played 0 times
+FOOTBALL: Team 0, player 9 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 15 is ready to play, has played 0 times
+BASEBALL: Team 1, player 7, has played 0 times, TEAM IS READY TO PLAY
+FOOTBALL: Team 1, player 3 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 5 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 2 is ready to play, has played 0 times
+BASEBALL: Team 0, player 5, has played 0 times, TEAM IS READY TO PLAY
+
+BASEBALL HAS THE FIELD: team 1 is playing
+ The game should last 3 seconds
+
+BASEBALL: Team 0, player is ready to play 14, has played 0 times
+FOOTBALL: Team 1, player 11 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 9 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 19 is ready to play, has played 0 times
+RUGBY: pair 4, player 0 is ready to play, has played 0 times
+RUGBY: pair 5, player 1 is ready to play, has played 0 times
+RUGBY: pair 6, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 8, player 0 is ready to play, has played 0 times
+RUGBY: pair 10, player 0 is ready to play, has played 0 times
+FOOTBALL: Team 0, player 14 is ready to play, has played 0 times
+RUGBY: pair 18, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 23, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 24, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 19, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 17, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 20, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 15, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 9, player 1 is ready to play, has played 0 times
+RUGBY: pair 12, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 3, player 0 is ready to play, has played 0 times
+RUGBY: pair 7, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 1, player 1, has played 0 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 21 is ready to play, has played 0 times
+RUGBY: pair 16, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 9, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 11, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 2, player 1 is ready to play, has played 0 times
+RUGBY: pair 5, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 10, player 1, has played 0 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 0, player 11, has played 0 times, TEAM READY TO PLAY
+FOOTBALL: Team 1, player 19 is ready to play, has played 0 times
+RUGBY: pair 21, player 1, has played 0 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 17 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 8 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 16 is ready to play, has played 0 times
+RUGBY: pair 4, player 1, has played 0 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 10 is ready to play, has played 0 times
+RUGBY: pair 2, player 0, has played 0 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 13 is ready to play, has played 0 times
+FOOTBALL: Team 1, player 14, has played 0 times, TEAM READY TO PLAY
+RUGBY: pair 8, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 3, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 26, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 28, player 1, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 29, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 25, player 0, has played 0 times, PAIR IS READY TO PLAY
+RUGBY: pair 27, player 1, has played 0 times, PAIR IS READY TO PLAY
+
+FOOTBALL HAS THE FIELD: team 0 is playing
+ The game should last 3 seconds
+
+BASEBALL: Team 1, player is ready to play 9, has played 1 times
+BASEBALL: Team 1, player is ready to play 11, has played 1 times
+BASEBALL: Team 1, player is ready to play 17, has played 1 times
+BASEBALL: Team 1, player is ready to play 10, has played 1 times
+BASEBALL: Team 1, player is ready to play 12, has played 1 times
+BASEBALL: Team 1, player is ready to play 16, has played 1 times
+BASEBALL: Team 1, player is ready to play 6, has played 1 times
+BASEBALL: Team 1, player is ready to play 1, has played 1 times
+BASEBALL: Team 1, player is ready to play 5, has played 1 times
+BASEBALL: Team 1, player is ready to play 8, has played 1 times
+BASEBALL: Team 1, player is ready to play 0, has played 1 times
+BASEBALL: Team 1, player is ready to play 15, has played 1 times
+BASEBALL: Team 1, player is ready to play 7, has played 1 times
+BASEBALL: Team 1, player is ready to play 13, has played 1 times
+BASEBALL: Team 1, player is ready to play 14, has played 1 times
+BASEBALL: Team 1, player is ready to play 4, has played 1 times
+BASEBALL: Team 1, player is ready to play 3, has played 1 times
+BASEBALL: Team 1, player 2, has played 1 times, TEAM IS READY TO PLAY
+BASEBALL: Team 1, player is ready to play 15, has played 2 times
+BASEBALL: Team 1, player is ready to play 7, has played 2 times
+BASEBALL: Team 1, player is ready to play 3, has played 2 times
+BASEBALL: Team 1, player is ready to play 13, has played 2 times
+FOOTBALL: Team 0, player 8 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 18 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 17 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 16 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 21 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 11 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 13 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 9 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 7 is ready to play, has played 1 times
+BASEBALL: Team 1, player is ready to play 0, has played 2 times
+BASEBALL: Team 1, player is ready to play 11, has played 2 times
+BASEBALL: Team 1, player is ready to play 10, has played 2 times
+BASEBALL: Team 1, player is ready to play 17, has played 2 times
+BASEBALL: Team 1, player is ready to play 6, has played 2 times
+BASEBALL: Team 1, player is ready to play 9, has played 2 times
+FOOTBALL: Team 0, player 0 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 4 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 1 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 10 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 15 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 19 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 20 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 3 is ready to play, has played 1 times
+BASEBALL: Team 1, player is ready to play 8, has played 2 times
+FOOTBALL: Team 0, player 2 is ready to play, has played 1 times
+BASEBALL: Team 1, player is ready to play 1, has played 2 times
+BASEBALL: Team 1, player is ready to play 4, has played 2 times
+BASEBALL: Team 1, player is ready to play 14, has played 2 times
+FOOTBALL: Team 0, player 6 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 5 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 14 is ready to play, has played 1 times
+FOOTBALL: Team 0, player 12, has played 1 times, TEAM READY TO PLAY
+BASEBALL: Team 1, player is ready to play 12, has played 2 times
+BASEBALL: Team 1, player is ready to play 16, has played 2 times
+BASEBALL: Team 1, player is ready to play 5, has played 2 times
+RUGBY: pair 6, player 1 is ready to play, has played 1 times
+RUGBY: pair 7, player 1 is ready to play, has played 1 times
+RUGBY: pair 14, player 1 is ready to play, has played 1 times
+RUGBY: pair 0, player 1 is ready to play, has played 1 times
+RUGBY: pair 20, player 1 is ready to play, has played 1 times
+RUGBY: pair 7, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 24, player 1 is ready to play, has played 1 times
+RUGBY: pair 0, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 22, player 0 is ready to play, has played 1 times
+RUGBY: pair 1, player 0 is ready to play, has played 1 times
+RUGBY: pair 22, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 23, player 1 is ready to play, has played 1 times
+RUGBY: pair 12, player 1 is ready to play, has played 1 times
+RUGBY: pair 19, player 0 is ready to play, has played 1 times
+RUGBY: pair 20, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 15, player 0 is ready to play, has played 1 times
+RUGBY: pair 19, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 15, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 14, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 24, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 6, player 0, has played 1 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 0, player 8 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 18 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 16 is ready to play, has played 2 times
+RUGBY: pair 17, player 0 is ready to play, has played 1 times
+RUGBY: pair 12, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 1, player 1, has played 1 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 0, player 13 is ready to play, has played 2 times
+RUGBY: pair 23, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 5, player 1 is ready to play, has played 1 times
+RUGBY: pair 5, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 13, player 1 is ready to play, has played 1 times
+RUGBY: pair 17, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 13, player 0, has played 1 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 0, player 21 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 9 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 17 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 7 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 11 is ready to play, has played 2 times
+RUGBY: pair 16, player 1 is ready to play, has played 1 times
+RUGBY: pair 16, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 9, player 0 is ready to play, has played 1 times
+RUGBY: pair 9, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 18, player 1 is ready to play, has played 1 times
+RUGBY: pair 18, player 0, has played 1 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 0, player 14 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 10 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 15 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 20 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 4 is ready to play, has played 2 times
+
+RUGBY HAS THE FIELD: The game should last 9 seconds
+The game has started with 30 players
+There has been 16 players who have left, and 8 players replacing them as substitutes
+
+
+BASEBALL HAS THE FIELD: team 0 is playing
+ The game should last 2 seconds
+
+FOOTBALL: Team 0, player 1 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 19 is ready to play, has played 2 times
+RUGBY: pair 11, player 1 is ready to play, has played 1 times
+RUGBY: pair 11, player 0, has played 1 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 0, player 3 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 0 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 2 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 6 is ready to play, has played 2 times
+FOOTBALL: Team 0, player 5 is ready to play, has played 2 times
+
+FOOTBALL HAS THE FIELD: team 1 is playing
+ The game should last 3 seconds
+
+BASEBALL: Team 0, player is ready to play 1, has played 1 times
+BASEBALL: Team 0, player is ready to play 6, has played 1 times
+BASEBALL: Team 0, player is ready to play 8, has played 1 times
+BASEBALL: Team 0, player is ready to play 3, has played 1 times
+BASEBALL: Team 0, player is ready to play 5, has played 1 times
+BASEBALL: Team 0, player is ready to play 13, has played 1 times
+BASEBALL: Team 0, player is ready to play 10, has played 1 times
+BASEBALL: Team 0, player is ready to play 2, has played 1 times
+BASEBALL: Team 0, player is ready to play 11, has played 1 times
+BASEBALL: Team 0, player is ready to play 15, has played 1 times
+BASEBALL: Team 0, player is ready to play 16, has played 1 times
+BASEBALL: Team 0, player is ready to play 0, has played 1 times
+BASEBALL: Team 0, player is ready to play 4, has played 1 times
+BASEBALL: Team 0, player is ready to play 14, has played 1 times
+BASEBALL: Team 0, player is ready to play 9, has played 1 times
+BASEBALL: Team 0, player is ready to play 7, has played 1 times
+BASEBALL: Team 0, player is ready to play 12, has played 1 times
+BASEBALL: Team 0, player 17, has played 1 times, TEAM IS READY TO PLAY
+FOOTBALL: Team 1, player 2 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 3 is ready to play, has played 1 times
+BASEBALL: Team 0, player is ready to play 5, has played 2 times
+BASEBALL: Team 0, player is ready to play 2, has played 2 times
+FOOTBALL: Team 1, player 11 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 5 is ready to play, has played 1 times
+BASEBALL: Team 0, player is ready to play 10, has played 2 times
+BASEBALL: Team 0, player is ready to play 13, has played 2 times
+FOOTBALL: Team 1, player 21 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 15 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 8 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 17 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 4 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 12 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 14 is ready to play, has played 1 times
+BASEBALL: Team 0, player is ready to play 16, has played 2 times
+BASEBALL: Team 0, player is ready to play 11, has played 2 times
+BASEBALL: Team 0, player is ready to play 15, has played 2 times
+FOOTBALL: Team 1, player 0 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 7 is ready to play, has played 1 times
+BASEBALL: Team 0, player is ready to play 6, has played 2 times
+BASEBALL: Team 0, player is ready to play 8, has played 2 times
+BASEBALL: Team 0, player is ready to play 3, has played 2 times
+BASEBALL: Team 0, player is ready to play 1, has played 2 times
+FOOTBALL: Team 1, player 9 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 1 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 20 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 6 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 18 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 13 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 10 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 19 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 16, has played 1 times, TEAM READY TO PLAY
+BASEBALL: Team 0, player is ready to play 7, has played 2 times
+RUGBY: pair 28, player 0 is ready to play, has played 1 times
+RUGBY: pair 8, player 1 is ready to play, has played 1 times
+RUGBY: pair 25, player 1 is ready to play, has played 1 times
+RUGBY: pair 26, player 0 is ready to play, has played 1 times
+RUGBY: pair 26, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 22, player 0 is ready to play, has played 2 times
+RUGBY: pair 0, player 0 is ready to play, has played 2 times
+BASEBALL: Team 0, player is ready to play 0, has played 2 times
+FOOTBALL: Team 1, player 3 is ready to play, has played 2 times
+RUGBY: pair 4, player 0 is ready to play, has played 1 times
+RUGBY: pair 7, player 1 is ready to play, has played 2 times
+RUGBY: pair 8, player 0, has played 1 times, PAIR IS READY TO PLAY
+BASEBALL: Team 0, player is ready to play 14, has played 2 times
+BASEBALL: Team 0, player is ready to play 4, has played 2 times
+BASEBALL: Team 0, player is ready to play 12, has played 2 times
+BASEBALL: Team 0, player is ready to play 9, has played 2 times
+RUGBY: pair 2, player 1 is ready to play, has played 1 times
+RUGBY: pair 27, player 0 is ready to play, has played 1 times
+RUGBY: pair 4, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 25, player 0, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 28, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 27, player 1, has played 1 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 12 is ready to play, has played 2 times
+RUGBY: pair 22, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 0, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 7, player 0, has played 2 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 14 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 7 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 2 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 10 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 19 is ready to play, has played 2 times
+RUGBY: pair 10, player 0 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 9 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 5 is ready to play, has played 2 times
+RUGBY: pair 20, player 1 is ready to play, has played 2 times
+RUGBY: pair 21, player 0 is ready to play, has played 1 times
+RUGBY: pair 3, player 0 is ready to play, has played 1 times
+RUGBY: pair 3, player 1, has played 1 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 4 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 13 is ready to play, has played 2 times
+RUGBY: pair 15, player 0 is ready to play, has played 2 times
+RUGBY: pair 20, player 0, has played 2 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 11 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 17 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 21 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 15 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 8 is ready to play, has played 2 times
+RUGBY: pair 2, player 0, has played 1 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 1 is ready to play, has played 2 times
+RUGBY: pair 10, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 29, player 0 is ready to play, has played 1 times
+FOOTBALL: Team 1, player 20 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 18 is ready to play, has played 2 times
+RUGBY: pair 15, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 19, player 1 is ready to play, has played 2 times
+RUGBY: pair 19, player 0, has played 2 times, PAIR IS READY TO PLAY
+FOOTBALL: Team 1, player 0 is ready to play, has played 2 times
+FOOTBALL: Team 1, player 6 is ready to play, has played 2 times
+RUGBY: pair 21, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 29, player 1, has played 1 times, PAIR IS READY TO PLAY
+RUGBY: pair 24, player 1 is ready to play, has played 2 times
+RUGBY: pair 24, player 0, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 14, player 0 is ready to play, has played 2 times
+
+RUGBY HAS THE FIELD: The game should last 9 seconds
+The game has started with 30 players
+There has been 16 players who have left, and 8 players replacing them as substitutes
+
+
+BASEBALL HAS THE FIELD: team 0 is playing
+ The game should last 3 seconds
+
+RUGBY: pair 14, player 1, has played 2 times, PAIR IS READY TO PLAY
+
+FOOTBALL HAS THE FIELD: team 0 is playing
+ The game should last 3 seconds
+
+BASEBALL: Team 0, player 17, has played 2 times, TEAM IS READY TO PLAY
+
+BASEBALL HAS THE FIELD: team 1 is playing
+ The game should last 5 seconds
+
+FOOTBALL: Team 0, player 12, has played 2 times, TEAM READY TO PLAY
+BASEBALL: Team 1, player 2, has played 2 times, TEAM IS READY TO PLAY
+RUGBY: pair 6, player 1 is ready to play, has played 2 times
+RUGBY: pair 9, player 1 is ready to play, has played 2 times
+RUGBY: pair 6, player 0, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 5, player 1 is ready to play, has played 2 times
+RUGBY: pair 4, player 0 is ready to play, has played 2 times
+RUGBY: pair 13, player 1 is ready to play, has played 2 times
+RUGBY: pair 17, player 1 is ready to play, has played 2 times
+RUGBY: pair 25, player 1 is ready to play, has played 2 times
+RUGBY: pair 16, player 0 is ready to play, has played 2 times
+RUGBY: pair 1, player 0 is ready to play, has played 2 times
+RUGBY: pair 17, player 0, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 9, player 0, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 23, player 0 is ready to play, has played 2 times
+RUGBY: pair 4, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 1, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 25, player 0, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 12, player 1 is ready to play, has played 2 times
+RUGBY: pair 13, player 0, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 18, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 5, player 0, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 18, player 0 is ready to play, has played 2 times
+RUGBY: pair 23, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 16, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 8, player 0 is ready to play, has played 2 times
+RUGBY: pair 26, player 0 is ready to play, has played 2 times
+RUGBY: pair 12, player 0, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 26, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 11, player 0 is ready to play, has played 2 times
+RUGBY: pair 8, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 28, player 0 is ready to play, has played 2 times
+RUGBY: pair 11, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 28, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 27, player 0 is ready to play, has played 2 times
+RUGBY: pair 27, player 1, has played 2 times, PAIR IS READY TO PLAY
+
+RUGBY HAS THE FIELD: The game should last 9 seconds
+The game has started with 30 players
+There has been 20 players who have left, and 10 players replacing them as substitutes
+
+
+FOOTBALL HAS THE FIELD: team 0 is playing
+ The game should last 3 seconds
+
+
+FOOTBALL HAS THE FIELD: team 1 is playing
+ The game should last 4 seconds
+
+
+BASEBALL HAS THE FIELD: team 1 is playing
+ The game should last 3 seconds
+
+FOOTBALL: Team 1, player 16, has played 2 times, TEAM READY TO PLAY
+RUGBY: pair 29, player 0 is ready to play, has played 2 times
+RUGBY: pair 29, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 2, player 0 is ready to play, has played 2 times
+RUGBY: pair 21, player 0 is ready to play, has played 2 times
+RUGBY: pair 2, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 3, player 0 is ready to play, has played 2 times
+RUGBY: pair 3, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 21, player 1, has played 2 times, PAIR IS READY TO PLAY
+RUGBY: pair 10, player 1 is ready to play, has played 2 times
+RUGBY: pair 10, player 0, has played 2 times, PAIR IS READY TO PLAY
+
+RUGBY HAS THE FIELD: The game should last 9 seconds
+The game has started with 30 players
+There has been 14 players who have left, and 8 players replacing them as substitutes
+
+
+BASEBALL HAS THE FIELD: team 0 is playing
+ The game should last 3 seconds
+
+
+FOOTBALL HAS THE FIELD: team 1 is playing
+ The game should last 3 seconds
+
+
+BASEBALL IS NO LONGER BEING PLAYED
+
+FOOTBALL IS NO LONGER BEING PLAYED
+
+RUGBY HAS THE FIELD: The game should last 9 seconds
+The game has started with 30 players
+There has been 10 players who have left, and 6 players replacing them as substitutes
+
+
+RUGBY IS NO LONGER BEING PLAYED
